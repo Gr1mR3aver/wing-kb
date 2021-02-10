@@ -1,0 +1,11 @@
+(sym_lib_table
+  (lib (name Split-1-rescue)(type Legacy)(uri ${KIPRJMOD}/Split-1-rescue.lib)(options "")(descr ""))
+  (lib (name component)(type Legacy)(uri "C:/Users/Paul/OneDrive/Documents/My Circuits/ErgoDox-master/ErgoDOX pcb/component.lib")(options "")(descr ""))
+  (lib (name __keebio)(type Legacy)(uri "C:/Users/Paul/OneDrive/Documents/My Circuits/Kicad Libraries/keebio-components-master/keebio.lib")(options "")(descr ""))
+  (lib (name __teensy)(type Legacy)(uri "C:/Users/Paul/OneDrive/Documents/My Circuits/Kicad Libraries/teensy_library-master/teensy.lib")(options "")(descr ""))
+  (lib (name __kb_parts)(type Legacy)(uri "C:/Users/Paul/OneDrive/Documents/My Circuits/Kicad Libraries/kicad_lib_tmk-master/keyboard_parts.lib")(options "")(descr ""))
+  (lib (name __blackpill)(type Legacy)(uri "C:/Users/Paul/OneDrive/Documents/My Circuits/Footprints/Kicad-STM32-master/Symbols/YAAJ_BlackPill.lib")(options "")(descr ""))
+  (lib (name __blackpill2)(type Legacy)(uri "C:/Users/Paul/OneDrive/Documents/My Circuits/Footprints/Kicad-STM32-master/Symbols/YAAJ_BlackPill_Part_Like.lib")(options "")(descr ""))
+  (lib (name __blackpill3)(type Legacy)(uri "C:/Users/Paul/OneDrive/Documents/My Circuits/Footprints/Kicad-STM32-master/Symbols/YAAJ_BlackPill_Part_Like_SWD_Breakout.lib")(options "")(descr ""))
+  (lib (name __blackpill4)(type Legacy)(uri "C:/Users/Paul/OneDrive/Documents/My Circuits/Footprints/Kicad-STM32-master/Symbols/YAAJ_BlackPill_SWD_Breakout.lib")(options "")(descr ""))
+)

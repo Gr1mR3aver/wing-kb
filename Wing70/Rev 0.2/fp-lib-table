@@ -1,0 +1,11 @@
+(fp_lib_table
+  (lib (name __keebio)(type KiCad)(uri "C:/Users/Paul/OneDrive/Documents/My Circuits/Footprints/Keebio-Parts.pretty-master")(options "")(descr ""))
+  (lib (name __teensy)(type KiCad)(uri "C:/Users/Paul/OneDrive/Documents/My Circuits/Footprints/teensy.pretty-master")(options "")(descr ""))
+  (lib (name __kb_footprints)(type KiCad)(uri "C:/Users/Paul/OneDrive/Documents/My Circuits/Footprints/keyswitches.pretty-master")(options "")(descr ""))
+  (lib (name __kb_parts)(type KiCad)(uri "C:/Users/Paul/OneDrive/Documents/My Circuits/Footprints/keyboard_parts.pretty-master")(options "")(descr ""))
+  (lib (name __kb_parts2)(type KiCad)(uri "C:/Users/Paul/OneDrive/Documents/My Circuits/Footprints/keebs.pretty-master")(options "")(descr ""))
+  (lib (name __custom)(type KiCad)(uri "C:/Users/Paul/OneDrive/Documents/My Circuits/Footprints/custom_footprints.pretty")(options "")(descr ""))
+  (lib (name __adafruit)(type KiCad)(uri "C:/Users/Paul/OneDrive/Documents/My Circuits/Kicad Libraries/kicad-libs-master/footprints/adafruit.pretty")(options "")(descr ""))
+  (lib (name __graphics)(type KiCad)(uri "C:/Users/Paul/OneDrive/Documents/My Circuits/Split-1/Graphics")(options "")(descr ""))
+  (lib (name __blackpill)(type KiCad)(uri "C:/Users/Paul/OneDrive/Documents/My Circuits/Footprints/Kicad-STM32-master/Footprints")(options "")(descr ""))
+)
